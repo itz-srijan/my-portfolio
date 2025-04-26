@@ -105,7 +105,7 @@ export default function Hero() {
 
           {/* Resume Button */}
           <a
-            href='/documents/Srijan_Mondal_Resume.pdf'
+            href='/documents/SRIJAN_MONDAL_RESUME.pdf'
             target='_blank'
             rel='noopener noreferrer'
             download
