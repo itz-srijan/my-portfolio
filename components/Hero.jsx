@@ -5,6 +5,7 @@ import Image from "next/image";
 import { FaFileDownload } from "react-icons/fa";
 
 const greetings = [
+  "নমস্কার!",
   "Hello!",
   "Hola!",
   "Bonjour!",
@@ -15,6 +16,7 @@ const greetings = [
   "안녕하세요!",
   "Olá!",
   "你好!",
+  "Привет!",
 ];
 
 export default function Hero() {
@@ -103,7 +105,7 @@ export default function Hero() {
 
           {/* Resume Button */}
           <a
-            href='/resume.pdf'
+            href='/documents/Srijan_Mondal_Resume.pdf'
             target='_blank'
             rel='noopener noreferrer'
             download
